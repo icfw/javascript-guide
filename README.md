@@ -1,2 +1,2 @@
-# javascript-guide
+# Javascript Guide
 Javascript Guide Cheat Sheet 
